@@ -52,7 +52,7 @@
 <div class="jumbotron">
     <div class="container">
         <h1>Welcome, Devops Engineer</h1>
-        <p>This is from pratik. </p>
+        <p>own by Pratik Bahirat. </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>

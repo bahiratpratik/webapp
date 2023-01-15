@@ -51,8 +51,8 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Welcome, Devops Engineer</h1>
-        <p>own by Pratik Bahirat. </p>
+        <h1>Happy Makar Sankranti</h1>
+        <p>Tilgul ghya god bola </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>

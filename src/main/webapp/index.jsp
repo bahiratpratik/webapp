@@ -51,7 +51,7 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Be prepare for interview</h1>
+        <h1>Sucess is great</h1>
         <p>from Pratik Bahirat </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
